@@ -1,4 +1,7 @@
 # Index RP
 Los changelogs de INDEX RP
 
-- Prosegur Job
+-> Prosegur Job
+-> Gendarmeria Job
+-> Gendarmeria Autos
+-> Autos en conce
